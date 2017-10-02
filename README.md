@@ -1,3 +1,8 @@
+Warning
+=======
+
+This project does NOT work well yet with Unity 2017.1. There's a performance issue with the shaders. Either use Unity 5.6.xx or 2017.2 beta.
+
 How to use this CoderDojo project
 ==================================
 
